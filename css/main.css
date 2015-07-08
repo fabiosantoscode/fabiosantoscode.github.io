@@ -4,23 +4,33 @@
 /*
 /*****************************************************************************/
 
-/* Global Reset */
-* {
-  margin: 0;
-  padding: 0;
+body {
+    background: #000 url("//secure.gravatar.com/avatar/b4cbd1f53efe6c4357e473262f365537?size=496&default=retro") no-repeat fixed 50% 0% / 100vmin;
+    max-width: 600px;
+    margin: 0 auto;
+    background-position: bottom center;
+}
+
+@media screen and (min-width: 900px) {
+    body {
+        background-attachment: scroll;
+        background-position: bottom left;
+        background-size: calc(100vw - 600px);
+        margin-right: 0;
+    }
+}
+
+main, footer {
+    background: white;
+    background: rgba(255,255,255,0.8);
 }
 
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
-  text-align: center;
 }
-
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }

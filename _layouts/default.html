@@ -3,8 +3,10 @@
     {% include header.html %}
     <body>
         <div class="ink-grid">
-          {% include navigation.html %}
-          {{ content }}
+            {% include navigation.html %}
+            <main class="column-group all-100">
+                {{ content }}
+            </main>
         </div>
     {% include footer.html %}
     </body>
