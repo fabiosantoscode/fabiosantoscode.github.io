@@ -1,7 +1,7 @@
 name: "Fábio's page"
 url: "http://fabiosantoscode.github.io/"
 description: "Well, just a page really"
-use_leaflet: 1
+use_leaflet: 0
 blog_more_posts: 5
 prettify_theme: "ghink"
 markdown: redcarpet
