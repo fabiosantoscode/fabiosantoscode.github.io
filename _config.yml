@@ -4,8 +4,8 @@ description: "Well, just a page really"
 use_leaflet: 0
 blog_more_posts: 5
 prettify_theme: "ghink"
-markdown: redcarpet
-pygments: true
+markdown: kramdown
+highligher: rouge
 paginate: 3
 paginate_path: "blog/page/:num"
 timezone: Europe/Lisbon
@@ -18,3 +18,4 @@ redcarpet:
     - fenced_code_blocks
 gems:
     - jekyll-sitemap
+    - jekyll-paginate
