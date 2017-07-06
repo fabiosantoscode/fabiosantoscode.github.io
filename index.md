@@ -4,7 +4,7 @@ title: Frutal
 ---
 
 <blockquote class="all-100">
-    This is the home page of the Great Frutal!
+    This is the home page of Fábio Santos
 </blockquote>
 
 # My stuff
