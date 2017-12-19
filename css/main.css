@@ -6,7 +6,7 @@
 
 body {
     /*background: #000 url("//secure.gravatar.com/avatar/b4cbd1f53efe6c4357e473262f365537?size=497&default=retro") no-repeat fixed 50% 0% / 100vmin;*/
-    max-width: 600px;
+    max-width: 960px;
     margin: 0 auto;
     background-position: bottom center;
 }
@@ -14,6 +14,10 @@ body {
 .bulkhead {
     margin-top: 1em;
     margin-bottom: 1em;
+}
+
+.main-navigation {
+    overflow: hidden;
 }
 /*
 
