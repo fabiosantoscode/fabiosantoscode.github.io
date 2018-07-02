@@ -21,3 +21,8 @@ I'm a passionate software engineer and architect, specialising in node.js, React
  * [I have created some npm modules](http://npmjs.com/~fabiosantoscode)
  * [My github repositories](http://github.com/fabiosantoscode), with plenty more stuff
 
+# Talks
+
+ * [React, GraphQL and Relay in practice](https://youtu.be/HrECWxWVcEI?t=57m38s) at the React London Meetup
+ * [Front-end performance](https://www.youtube.com/watch?v=fgUnjlwTzB4) at Fullstack LX 2017
+
