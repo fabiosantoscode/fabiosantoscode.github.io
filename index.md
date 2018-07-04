@@ -16,7 +16,7 @@ I'm a passionate software engineer and architect, specialising in node.js, React
 # What have I done?
 
  * I have worked alongside a team to create the new [economist.com](https://www.economist.com/) website
- * I was the lead maintainer of the [http://ink.sapo.pt/](Ink framework) for two years
+ * I was the lead maintainer of the [Ink framework](http://ink.sapo.pt/) for two years
  * I created a [Javascript to C++ transpiler](https://github.com/fabiosantoscode/js2cpp) which works for 10% of Javascript code
  * [I have created some npm modules](http://npmjs.com/~fabiosantoscode)
  * [My github repositories](http://github.com/fabiosantoscode), with plenty more stuff
