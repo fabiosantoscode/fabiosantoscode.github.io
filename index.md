@@ -12,6 +12,8 @@ title: Frutal
 
 I'm a passionate software engineer and architect, specialising in node.js, React and distributed systems.
 
+I'm the [terser](https://github.com/terser-js/terser) project maintainer, and I accept more help. The project is funded by [a patreon page](https://www.patreon.com/fabiosantoscode). Would you like to contribute?
+
 
 # What have I done?
 
