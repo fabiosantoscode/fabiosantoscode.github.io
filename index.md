@@ -14,6 +14,7 @@ I'm a passionate software engineer and architect, specialising in node.js, React
 
 I'm the [terser](https://github.com/terser-js/terser) project maintainer, and I accept more help. The project is funded by [a patreon page](https://www.patreon.com/fabiosantoscode). Would you like to contribute?
 
+Check out my [old blog posts](http://fabiosantoscode.blogspot.com/).
 
 # What have I done?
 
