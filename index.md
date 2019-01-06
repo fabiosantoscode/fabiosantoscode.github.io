@@ -12,7 +12,7 @@ title: Frutal
 
 I'm a passionate software engineer and architect, specialising in node.js, React and distributed systems.
 
-If you want you can [hire me on upwork](https://www.upwork.com/fl/fabiosantos6). My hourly rate varies depending on the job. See below what I can do for you.
+If you want you can [hire me on upwork](https://www.upwork.com/fl/fabiosantos6). My hourly rate varies depending on the job. See "What can I do for you?" below.
 
 I'm the [terser](https://github.com/terser-js/terser) project maintainer, and I accept more help. The project is funded by [a patreon page](https://www.patreon.com/fabiosantoscode). Would you like to contribute?
 
@@ -40,7 +40,8 @@ I'm a freelancer, and I can do many many things
 
  * Move your application to AWS lambda@edge, where it can respond to user requests from their own city
  * Architect distributed systems like websites and apps and more
- * Optimise your javascript, HTML and CSS to make sure your website loads faster than the competition. Each 100ms removed means 1% more conversion (according to a [study from Amazon](https://blog.gigaspaces.com/amazon-found-every-100ms-of-latency-cost-them-1-in-sales/))!
+ * Optimise your javascrpt, HTML and CSS to make sure your website loads faster than the competition. More performance means more conversion (according to [Google](https://developers.google.com/web/fundamentals/performance/why-performance-matters/))!
+ * Develop desktop, mobile or web applications using a variety of programming languages
 
 <a href="mailto:fabiosantosart@gmail.com">Drop me a line</a> and we can schedule a meeting in no time!
 
