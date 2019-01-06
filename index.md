@@ -38,10 +38,11 @@ Check out my [old blog posts](http://fabiosantoscode.blogspot.com/).
 
 I'm a freelancer, and I can do many many things
 
+ * Develop desktop, mobile or web applications using a variety of programming languages
  * Move your application to AWS lambda@edge, where it can respond to user requests from their own city
  * Architect distributed systems like websites and apps and more
+ * Create a new programming language or write software that transforms codebases. I've created packages like [js2cpp](https://www.npmjs.com/package/js2cpp) and [infralang](https://www.npmjs.com/package/infralang).
  * Optimise your javascrpt, HTML and CSS to make sure your website loads faster than the competition. More performance means more conversion (according to [Google](https://developers.google.com/web/fundamentals/performance/why-performance-matters/))!
- * Develop desktop, mobile or web applications using a variety of programming languages
 
 <a href="mailto:fabiosantosart@gmail.com">Drop me a line</a> and we can schedule a meeting in no time!
 
