@@ -12,8 +12,6 @@ title: Fábio Santos's home page
 
 I'm a passionate software engineer and architect, specialising in node.js, React and distributed systems.
 
-If you want you can [hire me on upwork](https://www.upwork.com/fl/fabiosantos6). My hourly rate varies depending on the job. See "What can I do for you?" below.
-
 I'm the [terser](https://github.com/terser-js/terser) project maintainer, and I accept more help. The project is funded by [a patreon page](https://www.patreon.com/fabiosantoscode). Would you like to contribute?
 
 # What have I done?
