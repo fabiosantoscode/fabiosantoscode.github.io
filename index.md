@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Frutal
+title: Fábio Santos's home page
 ---
 
 <blockquote class="all-100 double-bottom-space">
@@ -16,14 +16,11 @@ If you want you can [hire me on upwork](https://www.upwork.com/fl/fabiosantos6).
 
 I'm the [terser](https://github.com/terser-js/terser) project maintainer, and I accept more help. The project is funded by [a patreon page](https://www.patreon.com/fabiosantoscode). Would you like to contribute?
 
-Check out my [old blog posts](http://fabiosantoscode.blogspot.com/).
-
 # What have I done?
 
  * I have worked alongside a team to create the new [economist.com](https://www.economist.com/) website
  * I was the lead maintainer of the [Ink framework](http://ink.sapo.pt/) for two years
  * I took the DOM and Native out of React and created [react-applications, a dynamic state manager using React](https://github.com/fabiosantoscode/react-applications/).
- * I'm writing [a compiler that can compile from many languages to many other languages](https://github.com/fabiosantoscode/ecmacomp/).
  * I created a [Javascript to C++ transpiler](https://github.com/fabiosantoscode/js2cpp) which works for 10% of Javascript code
  * [I have created some npm modules](http://npmjs.com/~fabiosantoscode)
  * [My github repositories](http://github.com/fabiosantoscode), with plenty more stuff
