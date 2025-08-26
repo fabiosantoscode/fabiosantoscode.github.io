@@ -37,7 +37,7 @@ I'm a freelancer, and I can do many many things
  * Move your application to AWS lambda@edge, where it can respond to user requests from their own city
  * Architect distributed systems like websites and apps and more
  * Create a new programming language or write software that transforms codebases. I've created packages like [js2cpp](https://www.npmjs.com/package/js2cpp) and [infralang](https://www.npmjs.com/package/infralang).
- * Optimise your javascrpt, HTML and CSS to make sure your website loads faster than the competition. More performance means more conversion (according to [Google](https://developers.google.com/web/fundamentals/performance/why-performance-matters/))!
+ * Optimise your javascript, HTML and CSS to make sure your website loads faster than the competition. More performance means more conversion (according to [Google](https://developers.google.com/web/fundamentals/performance/why-performance-matters/))!
 
 <a href="mailto:fabiosantosart@gmail.com">Drop me a line</a> and we can schedule a meeting in no time!
 
