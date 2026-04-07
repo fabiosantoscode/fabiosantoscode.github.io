@@ -12,13 +12,15 @@ title: Fábio Santos's home page
 
 I'm a passionate software engineer and architect, specialising in node.js, React and distributed systems.
 
-I'm the [terser](https://github.com/terser-js/terser) project maintainer, and I accept more help. The project is funded by [a patreon page](https://www.patreon.com/fabiosantoscode). Would you like to contribute?
+I'm the [terser](https://github.com/terser-js/terser) project maintainer. The project is funded by on OpenCollective. Would you like to [contribute](https://opencollective.com/terser)?
 
 # What have I done?
 
- * I have worked alongside a team to create the new [economist.com](https://www.economist.com/) website
+ * I have worked alongside a team to create the new [economist.com](https://www.economist.com/) website.
+ * Built a user-friendly programming language for [Decipad, the interactive digital notebook](https://github.com/decipad/decipad/) from the ground up, seamlessly integrating text and GUI elements.
+ * Architected and began gradually replacing the web architecture for a popular NewsUk website, using a [reactive architecture](https://www.reactivemanifesto.org/) for performance, compute savings and ease of development.
+ * I helped gradually rewrite [the qasa.nl](https://www.qasa.nl/) website into a more modern architecture.
  * I was the lead maintainer of the [Ink framework](http://ink.sapo.pt/) for two years
- * I took the DOM and Native out of React and created [react-applications, a dynamic state manager using React](https://github.com/fabiosantoscode/react-applications/).
  * I created a [Javascript to C++ transpiler](https://github.com/fabiosantoscode/js2cpp) which works for 10% of Javascript code
  * [I have created some npm modules](http://npmjs.com/~fabiosantoscode)
  * [My github repositories](http://github.com/fabiosantoscode), with plenty more stuff
